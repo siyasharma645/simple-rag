@@ -1,0 +1,4 @@
+pypdf
+sentence-transformers
+faiss-cpu
+anthropic

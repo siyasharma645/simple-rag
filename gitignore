@@ -1,0 +1,5 @@
+rag_store/
+__pycache__/
+.venv/
+*.pdf
+.env
